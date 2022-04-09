@@ -8,6 +8,15 @@
       "salary": "1250",
       "status": false,
       "id": 1
+    },
+    {
+      "name": "Manish Kumar",
+      "gender": "Male",
+      "department": "IT",
+      "role": "Software Developer",
+      "salary": "12500",
+      "status": false,
+      "id": 2
     }
   ]
 }
