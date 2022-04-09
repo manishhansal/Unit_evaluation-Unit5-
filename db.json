@@ -1,0 +1,13 @@
+{
+  "allData": [
+    {
+      "name": "Abhishek",
+      "gender": "Male",
+      "department": "It",
+      "role": "SD",
+      "salary": "1250",
+      "status": false,
+      "id": 1
+    }
+  ]
+}
